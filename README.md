@@ -10,3 +10,12 @@
 - [ ] Use Jupyter notebook
 
 Leaning to use GitHub etc.
+
+```python
+# This is a comment
+def factorial(x):
+  if x == 1:
+    return 1
+  else:
+    return x * factorial(x-1)
+```
